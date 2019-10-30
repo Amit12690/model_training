@@ -1,5 +1,7 @@
 ### Pre-requisites for training Yolov3 - pytorch 
 
+This repo has been extended completely from : https://github.com/eriklindernoren/PyTorch-YOLOv3 
+
 #### 1. The training repo (scripts)  
 
 - For yolov3 , clone the repo : https://github.com/Amit12690/model_training.git [branch : master]
